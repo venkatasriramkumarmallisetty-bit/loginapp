@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginapp</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="social_login_text">Socia Login</string>
+    <string name="account_icon_content_description">Account icon</string>
+    <string name="facebook_button_content_description">Facebook login button</string>
+    <string name="linkedin_button_content_description">LinkedIn login button</string>
+</resources>
